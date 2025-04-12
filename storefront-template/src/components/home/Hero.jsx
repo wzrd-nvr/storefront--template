@@ -15,7 +15,7 @@ const Hero = () => {
             We help small businesses thrive in the digital world with professional web development and marketing strategies.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <Link to="/services" className="bg-white hover:bg-gray-100 text-gray-800 px-6 py-3 rounded-md font-medium text-center">
+            <Link to="/services" className="bg-white hover:bg-gray-100 px-6 py-3 rounded-md font-medium text-center">
               Our Services
             </Link>
             <Link to="/contact" className="border border-white bg-transparent hover:bg-white/10 text-white px-6 py-3 rounded-md font-medium text-center">
